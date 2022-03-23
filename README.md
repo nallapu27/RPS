@@ -15,7 +15,7 @@
 
 # [Go to Rock,Paper and Scissors game](https://calm-bay-0a5f26c00.1.azurestaticapps.net)
 
-# [Go to Video Demo](https://drive.google.com/file/d/1fgq3RPLLrgZPxfozrEcoP8l-C-C7d6Ps/view?usp=sharing)
+# [Go to Video Demo](https://drive.google.com/file/d/1T-3XyP-VFoctYowa0GpaUnKTsaqsINqZ/view?usp=sharing)
 
 # Screen Captures of project
 <img src="https://github.com/nallapu27/Rock-Paper-and-Scissors-Game/blob/main/Game%20screenshots/Game%20screenshots/Game%20Home%20page.png" height=400 width=1000 />
