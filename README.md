@@ -13,7 +13,7 @@
     publish to the web as your code changes.
     
 
-# [Go to Rock,Paper and Scissors game](https://zealous-river-09636a810.1.azurestaticapps.net/)
+# [Go to Rock,Paper and Scissors game](https://calm-bay-0a5f26c00.1.azurestaticapps.net)
 
 # [Go to Video Demo](https://drive.google.com/file/d/1fgq3RPLLrgZPxfozrEcoP8l-C-C7d6Ps/view?usp=sharing)
 
